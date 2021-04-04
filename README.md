@@ -1,5 +1,6 @@
 # nnnb
-### nulls no nonsense bootloader
+### Nulls No Nonsense Bootloader
 
-eventually going to be a single sector, real mode linux bootloader
-currently working on figuring out addressing in unreal mode
+Eventually going to be a single sector, real mode linux bootloader.
+
+Currently working on figuring out addressing in unreal mode.
