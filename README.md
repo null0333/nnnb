@@ -2,7 +2,6 @@
 ### nulls no nonsense bootloader
 
 Eventually going to be a single sector, real mode linux bootloader.
-
 Currently working on figuring out addressing in unreal mode.
 
 To run:
